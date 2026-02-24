@@ -8,7 +8,7 @@
 
 This project is an **early-stage startup**.
 
-We are building a platform that makes it easier to **access, compare, and experiment with financial data across countries** — starting with data and simulations, not real money.
+We are building a platform that makes it easier to **access, compare, and experiment with financial data across countries**  starting with data and simulations, not real money.
 
 This repository documents the **journey**, not just the code.
 
@@ -39,7 +39,7 @@ We are building a platform that:
 
 ---
 
-## 🧪 Current Stage — v0
+## 🧪 Current Stage  v0
 
 ### What Exists
 
